@@ -1,0 +1,2 @@
+import meny
+meny.meny()
